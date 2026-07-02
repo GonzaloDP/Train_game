@@ -17,6 +17,7 @@ var in_floor = true
 var can_attack = true
 var punch_attack = false
 var kick_attack = false
+var die = false
 
 #funciones
 func _ready() -> void:
